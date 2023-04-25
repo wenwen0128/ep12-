@@ -24,7 +24,7 @@
 		A216EF8929F5748B00964457 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A216EF8C29F5748B00964457 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A216EF8E29F5748B00964457 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A21C913329F6BFD500125F26 /* MyPlaygroundRamen.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MyPlaygroundRamen.playground; path = ../../MyPlaygroundRamen.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		A278996129F7E31900E61C3C /* MyPlaygroundRamen.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlaygroundRamen.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		A216EF7F29F5748A00964457 /* ep12拉麵 */ = {
 			isa = PBXGroup;
 			children = (
-				A21C913329F6BFD500125F26 /* MyPlaygroundRamen.playground */,
+				A278996129F7E31900E61C3C /* MyPlaygroundRamen.playground */,
 				A216EF8029F5748A00964457 /* AppDelegate.swift */,
 				A216EF8229F5748A00964457 /* SceneDelegate.swift */,
 				A216EF8429F5748A00964457 /* ViewController.swift */,
